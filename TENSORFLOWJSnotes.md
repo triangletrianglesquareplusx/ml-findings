@@ -14,10 +14,12 @@ Important things to consider when using pre-made/trained models:
 * Data bias
 Make sure enough training data is provided to these models and make sure you consider edge cases. For example in a recent model I trained where I wanted to comprare facial recognition of two faces both of whom wore hats frequently it was important to consider whethert he ML model might think the presence of a hat constitued one or the other person.
 
-![will-sad](https://drive.google.com/file/d/1ILOl2cb7DIBK85fYoJYwBPCsyqShitdV/view?usp=drive_link)
+![will-sad](https://res.cloudinary.com/dvoaat0nl/image/upload/v1709717120/doomed1_g1ht8p.jpg)
 
-![will-weirdhat](https://drive.google.com/file/d/1Zn8L0_lLCrupSSSokUS8-njXQokZWTXC/view?usp=drive_link)
+![will-weirdhat](https://res.cloudinary.com/dvoaat0nl/image/upload/v1709717120/doomed2_bhqziq.jpg)
 
-![will-aschad](https://drive.google.com/file/d/1O71eynGxzDej7LWgLOLfYi3UHCjYt2cM/view?usp=drive_link)
+![will-aschad](https://res.cloudinary.com/dvoaat0nl/image/upload/v1709717120/doomed4_doeroe.jpg)
+
+
 
 
